@@ -63,6 +63,20 @@ $ npm start
 
 - visit the localhost:3000 on your browser to start make booking
 
+<hr>
+#### Screenshots
+    - Landing: Get all appointments)
+<img width="600" alt="1 Landing 2022-07-24 at 8 26 59 PM" src="https://user-images.githubusercontent.com/41196218/180647958-fd8493c0-16ff-4f41-bb34-5d685f5cda69.png">
+
+    - View Appointment details
+<img width="600" alt="2 View 2022-07-24 at 8 26 48 PM" src="https://user-images.githubusercontent.com/41196218/180647960-aaaed3ce-236c-4692-a4de-5948c81d5302.png">
+
+    - New appointment
+<img width="600" alt="3 New 2022-07-24 at 8 24 52 PM" src="https://user-images.githubusercontent.com/41196218/180647965-611f5af7-1945-4a26-bb49-93dccc1c8e82.png">
+
+    - Edit appointment
+<img width="600" alt="4 Edit 2022-07-24 at 8 25 20 PM" src="https://user-images.githubusercontent.com/41196218/180647962-6de94657-bd9c-4dcc-a8a3-8d43bbc96286.png">
+
 
 ## NOTES:
 
