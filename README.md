@@ -71,11 +71,14 @@ $ npm start
     - View Appointment details
 <img width="600" alt="2 View 2022-07-24 at 8 26 48 PM" src="https://user-images.githubusercontent.com/41196218/180647960-aaaed3ce-236c-4692-a4de-5948c81d5302.png">
 
-    - New appointment
+    - New appointment 1
 <img width="600" alt="3 New 2022-07-24 at 8 24 52 PM" src="https://user-images.githubusercontent.com/41196218/180647965-611f5af7-1945-4a26-bb49-93dccc1c8e82.png">
 
-    - Edit appointment
 <img width="600" alt="4 Edit 2022-07-24 at 8 25 20 PM" src="https://user-images.githubusercontent.com/41196218/180647962-6de94657-bd9c-4dcc-a8a3-8d43bbc96286.png">
+
+
+    - Edit appointment
+<img width="600" alt="Screen Shot 2022-07-24 at 9 09 13 PM" src="https://user-images.githubusercontent.com/41196218/180648508-1dc8aad4-01e8-4168-b186-6a74221c13e2.png">
 
 
 ## NOTES:
