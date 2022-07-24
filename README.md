@@ -65,6 +65,7 @@ $ npm start
 
 <hr>
 #### Screenshots
+
     - Landing: Get all appointments)
 <img width="600" alt="1 Landing 2022-07-24 at 8 26 59 PM" src="https://user-images.githubusercontent.com/41196218/180647958-fd8493c0-16ff-4f41-bb34-5d685f5cda69.png">
 
