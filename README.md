@@ -61,7 +61,7 @@ $ npm start
 
 ```
 
-- visit the localhost:3000 on your browser to start make booking
+- visit http://localhost:3000 on your browser to start make booking
 
 <hr>
 
