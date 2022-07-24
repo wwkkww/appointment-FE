@@ -64,6 +64,7 @@ $ npm start
 - visit the localhost:3000 on your browser to start make booking
 
 <hr>
+
 #### Screenshots
 
     - Landing: Get all appointments)
